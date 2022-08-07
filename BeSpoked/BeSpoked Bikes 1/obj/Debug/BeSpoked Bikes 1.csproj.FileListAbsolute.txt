@@ -1,0 +1,14 @@
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\bin\Debug\BeSpoked Bikes 1.exe.config
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\bin\Debug\BeSpoked Bikes 1.exe
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\bin\Debug\BeSpoked Bikes 1.pdb
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked Bikes 1.csproj.AssemblyReference.cache
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked_Bikes_1.Properties.Resources.resources
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked Bikes 1.csproj.GenerateResource.cache
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked Bikes 1.csproj.CoreCompileInputs.cache
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked Bikes 1.exe
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked Bikes 1.pdb
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked_Bikes_1.HomePage.resources
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked_Bikes_1.SalesPersonnel.resources
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked_Bikes_1.Products.resources
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked_Bikes_1.Customers.resources
+C:\Users\admcw\source\repos\BeSpoked Bikes 1\BeSpoked Bikes 1\obj\Debug\BeSpoked_Bikes_1.Sales.resources
